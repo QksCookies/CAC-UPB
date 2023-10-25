@@ -13,20 +13,20 @@ El objetivo principal de este proyecto es desarrollar una herramienta de softwar
 # Funcionalidades Clave
 El proyecto contempla las siguientes funcionalidades clave:
 
-# Solicitud de Citas: 
+## Solicitud de Citas: 
 Los estudiantes podrán solicitar citas presenciales con operadores del centro de citas telefónicas del Centro de Atención al Estudiante.
 
-# Cancelación de Citas: 
+## Cancelación de Citas: 
 En caso de no poder asistir a la cita, los estudiantes podrán cancelarla llamando a un operador del centro de atención.
 
-# Sistema de Colas: 
+## Sistema de Colas: 
 Cuando los estudiantes se presenten al centro de atención en el horario pactado, podrán obtener un ticket de una máquina dispensadora ubicada en la entrada del centro. Este ticket les asignará un turno en una cola.
 
-# Prioridad de Atención: 
+## Prioridad de Atención: 
 Los estudiantes de primer semestre y aquellos con discapacidades recibirán atención prioritaria al obtener un ticket.
 
-# Monitor de Turnos: 
+## Monitor de Turnos: 
 Los estudiantes podrán ver en un monitor cuál es su turno en la cola y la cantidad de personas que están esperando.
 
-# Indicación del Banco o Ubicación: 
+## Indicación del Banco o Ubicación: 
 Cuando un estudiante sea el próximo en la cola, el sistema mostrará en un monitor a qué banco o ubicación debe dirigirse para recibir atención.
