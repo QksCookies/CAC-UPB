@@ -2,6 +2,9 @@
 ## Ligas Menores
 ![WhatsApp Image 2023-10-25 at 10 16 25 AM](https://github.com/QksCookies/CAC-UPB/assets/127954581/a8f6c6f5-4000-435b-b540-ac056a3acdbe)
 
+# Video explicativo del código:
+https://youtu.be/L0Okn76jPRU
+
 Este proyecto tiene como objetivo abordar los desafíos asociados a la gestión de citas y asesorías en el Centro de Atención al Estudiante CAC-UPB. Actualmente, este proceso se administra manualmente a través de hojas de cálculo en Excel. Sin embargo, se busca una solución más eficiente y efectiva para garantizar una mejor experiencia para los estudiantes.
 
 # Descripción del Problema
