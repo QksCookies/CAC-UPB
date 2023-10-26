@@ -30,3 +30,7 @@ Los estudiantes podrán ver en un monitor cuál es su turno en la cola y la cant
 
 ## Indicación del Banco o Ubicación: 
 Cuando un estudiante sea el próximo en la cola, el sistema mostrará en un monitor a qué banco o ubicación debe dirigirse para recibir atención.
+## Integrantes:
+Sergio David Mesa Puerto
+Juliana Chávez King
+Fernando Javier Vega Sabino
